@@ -1,0 +1,60 @@
+#about .secHeading{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
+#about,#service{
+  border-top: 5px solid white;
+}
+
+.aboutDiv{
+  margin-top: -40px;
+}
+
+.social{
+  display: flex;
+  width: 100%;  
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.social-icon{
+  font-size: 40px;
+}
+.secSer{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 50px;
+}
+.serCon{
+  border: 2px solid black;
+  border-radius: 8px;
+}
+.svgCon{
+  padding-left:20px 
+}
+.secPro{
+  color: white;
+}
+.firstVid{
+  width: 200px;
+  height: 400px;
+}
+.vidDDiv{
+  width: 300px;
+}
+.vidDiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  padding: 10px;
+}
+.vidBoss{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
